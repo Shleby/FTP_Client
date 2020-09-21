@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Shelby\\Downloads\\commons-net-3.7.jar"
+    ]
+}
